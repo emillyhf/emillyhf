@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas Vindas Ao Meu Perfil 👋 🇦🇸
 
-<!--
-**emillyhf/emillyhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Emilly
 
-Here are some ideas to get you started:
+- Estou estudando com [Alura](https;//www.alura.com.br)
+- Estou aprendendo sobre linguagem JavaScript
+- Utilizo essa página para minha organização dos meus projetos já desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  ## Você pode entrar em contato comigo 📫
+
+-  @emillyheloise720@gmail.com
+
+-  ![](https://media.tenor.com/u_dz7SKQiGsAAAAj/manidhaya.gif)
+- 
